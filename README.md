@@ -138,3 +138,4 @@ You need to run the backend and frontend servers in separate terminals.
 -   **Backend**: FastAPI, LangChain, ChromaDB, OpenAI
 -   **Frontend**: Streamlit
 -   **Language**: Python
+-   **Demo Video**: [Youtube](https://www.youtube.com/playlist?list=PLMfJaD-icPgqFo1g7FeooHe4AA44iD9p9)
