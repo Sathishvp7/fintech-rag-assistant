@@ -1,0 +1,7 @@
+# Environment files
+.env
+*.env
+backup
+llm_test_cases.json
+Evaluation_result.txt
+.deepeval-cache.json

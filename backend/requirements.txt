@@ -1,0 +1,10 @@
+langchain==0.2.11
+langchain-openai==0.1.17
+langchain-community==0.2.10
+langchain-chroma==0.1.4
+unstructured[all-docs]==0.14.10
+pandas==2.2.2
+fastapi==0.111.1
+uvicorn==0.30.3
+python-dotenv==1.0.1
+requests==2.32.3
