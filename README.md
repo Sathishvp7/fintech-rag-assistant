@@ -139,3 +139,6 @@ You need to run the backend and frontend servers in separate terminals.
 -   **Frontend**: Streamlit
 -   **Language**: Python
 -   **Demo Video**: [Youtube](https://www.youtube.com/playlist?list=PLMfJaD-icPgqFo1g7FeooHe4AA44iD9p9)
+
+  ![image](https://github.com/user-attachments/assets/07a57222-ae1f-419e-ba00-422ab0560c51)
+
