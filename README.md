@@ -32,7 +32,7 @@ The application is composed of three main parts:
 ├── frontend/  
 │   ├── app.py              # Streamlit application  
 │   └── requirements.txt    # Python dependencies for the frontend  
-├── my_db5/                 # ChromaDB vector store (created by ingest.py)  
+├── my_db5/                 # ChromaDB vector store (development_rag_notebook.ipynb)  
 ├── development_rag_notebook.ipynb # Script to ingest data into ChromaDB
 ├── evaluation_notebook_good.ipynb # Evaluating Model
 └── README.md               # This file
